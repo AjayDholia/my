@@ -1,0 +1,29 @@
+.page{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    margin-top: 7%;
+   margin-left: 32%;
+   border: 3px solid gray;
+   border-radius: 30px;
+   width: 40%;
+   background-color: white;
+   height: 80vh;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.input {
+    height: 8vh;
+    width: 27vw;
+    color: black;
+    border-radius: 16px;
+}
+.form-control{
+    margin-top: 1%;
+}
+.Signbtn{
+    margin-top: -2%;
+    width: 50%;
+    height: 8%;
+    background-color: black;
+    color: white;
+}
